@@ -651,4 +651,15 @@ table.project-desc th,td {
 		transform: translate(-60%,-30%);
 		z-index: -1;
 	}
+		
+	.footer>div { margin: 7px; }
+	.send-email { visibility: hidden; }
+	
+	h1 { font-size: 50px; }
+	h2 { font-size: 36px; }
+	h3 { font-size: 32px; }
+	h4 { font-size: 28px; }
+	h5 { font-size: 20px; }
+	h6 { font-size: 18px; }
+	.floating { display: none; }
 }
