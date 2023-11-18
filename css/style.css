@@ -421,6 +421,10 @@ th {
 	will-change: transform, opacity;
 }
 
+.gs_reveal h1 {
+	margin-bottom: 15px;
+}
+
 .gallery {
 	display: flex;
 	flex-wrap: wrap;
